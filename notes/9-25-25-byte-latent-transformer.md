@@ -20,7 +20,12 @@
     - It is generally easier to predict tokens at the end of specific things, like titles
       - This would mean low entropy, which is the uncertainty about the next token
       - High entropy would show that a phrase is more dynamic and could branch off into many other tokens
-  - Encoder: takes byte embeddings (with UTFA ID) and determines if the next token's uncertainty
+  - Lanugage Encoder: takes byte embeddings (with UTFA ID) and determines if the next token's uncertainty
+  - Latent Global Transformer: takes each patch, and predicts the next most likely patch
+  - Decoder: changes the patches back into bytes to be able to convert back into language
+- Results
+  - The BLT was far more efficient than previous transformer models
+  - It was better able to understand orthographic language
 
 ## Questions
 - Why not tokenize every character?
