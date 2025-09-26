@@ -2,7 +2,7 @@
 Here is where I track all my notes from the (sometimes) weekly ML@Purdue Reading Group
 
 ## Papers
-- [9/11/25 - 3D Guassian Splatting](notes/9-25-25-3d-guassian-splatting.md)
+- [9/11/25 - 3D Guassian Splatting](notes/9-11-25-3d-guassian-splatting.md)
 - [9/25/25 - Byte Latent Transformer](notes/9-25-25-byte-latent-transformer.md)
 - 
 ___
