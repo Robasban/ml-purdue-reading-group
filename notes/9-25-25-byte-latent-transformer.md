@@ -1,5 +1,5 @@
 # Byte Latent Transformer
-Presenter: Arnav Grover
+Presenter: Arnav Grover 
 Date: 9/25/25
 
 ## Summary
