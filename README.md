@@ -1,4 +1,4 @@
-# ml-purdue-reading-group
+# ML@Purdue Reading Group Notes
 Here is where I track all my notes from the (sometimes) weekly ML@Purdue Reading Group
 
 ## Papers
