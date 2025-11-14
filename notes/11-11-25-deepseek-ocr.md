@@ -1,6 +1,6 @@
 # Title
 - Presenter: Oskar Jonientz
-- Date: 
+- Date: 11/11/25
 
 ## Summary
 
